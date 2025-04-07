@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom"; // Importar useNavigate
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, ArrowRight, ShoppingCart } from "lucide-react";
 import acymadLogo from "../assets/acymadlogo.jpg";
-import ProductDetail from "./ProductDetail"; 
+import ProductDetail from "./productDetail"; 
 import defaultImage from "../assets/defaultImage.jpg";
 import ImageAbout from "../assets/muebles.jpg";
 import NavBar from "./NavBar";

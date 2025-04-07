@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import MainLayout from "./components/MainLayout";
 import Layout from "./components/layout";
-import ProductDetail from "./components/productDetail.jsx";
+import ProductDetail from "./components/productDetail";
 import Cart from "./components/Cart"; // Importar el componente Cart
 import "./App.css";
 

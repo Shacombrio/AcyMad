@@ -57,7 +57,7 @@ const ProductDetail = ({ onBackClick, onAddToCart }) => {
     },
     materials: ["Solid Oak", "Hand-forged Steel", "Premium Leather"],
     colors: ["Natural", "Walnut", "Ebony"],
-    images: [defaultImage, defaultImage, defaultImage, defaultImage],
+    images: ["https://artisan.ba/_next/image?url=https%3A%2F%2Fartisan-production.ams3.cdn.digitaloceanspaces.com%2Fneva_chair_gallery_1_66f49a708e.png&w=828&q=75", "https://artisan.ba/_next/image?url=https%3A%2F%2Fartisan-production.ams3.cdn.digitaloceanspaces.com%2Fneva_chair_gallery_2_b7dbde5171.png&w=828&q=75", "https://artisan.ba/_next/image?url=https%3A%2F%2Fartisan-production.ams3.cdn.digitaloceanspaces.com%2Fneva_chair_gallery_3_b6b1107920.png&w=828&q=75", "https://artisan.ba/_next/image?url=https%3A%2F%2Fartisan-production.ams3.cdn.digitaloceanspaces.com%2Fneva_chair_gallery_4_bda89196a4.png&w=828&q=75"],
   };
 
   const nextImage = () => {
